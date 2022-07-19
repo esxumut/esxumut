@@ -2,7 +2,7 @@
 ####  👑 THE FIVEM KING  👑 
 ![ 👑 THE FIVEM KING  👑 ](https://i.hizliresim.com/excnwa4.gif)
 
-I am a person who has been interested in software all my life. Software is not my profession. Software is my hobby. I studied at university in Germany. I am developing projects related to the game called Fivem. I am open to innovations and I am constantly learning something.
+I was recognized from the game FiveM. My mother language is Turkish. I speak German and English. And I'm constantly trying to learn new languages. I love the computer and learning new things.
 
 Skills: LUA / PYTHON / C# / C++
 
