@@ -13,7 +13,7 @@ Skills: LUA / PYTHON / C# / C++
 [<img
 src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='Instagram' height='40'>](https://instagram.com/esxumutreal)  [<img
 src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/EsxUmuTOfficial) [<img
-src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/invite/esx) [<img
+src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/) [<img
 src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg' alt='Spotify' height='40'>](https://open.spotify.com/artist/0xsXRiItX2iEiONQ9NBoGy?si=oNECzvwMSaaEqg_wcYVh6w&nd=1)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esxumut)](https://github.com/anuraghazra/github-readme-stats)
