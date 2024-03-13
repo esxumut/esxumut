@@ -11,7 +11,7 @@ Skills: LUA / PYTHON / C# / C++
 
 
 [<img
-src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/) [<img
+src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esxumut)](https://github.com/anuraghazra/github-readme-stats)
 
